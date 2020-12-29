@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://example.com/gatsby-starter-lunash/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://example.com/gatsby-starter-lunash/article-medias</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/gatsby-starter-lunash/article-markdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/article-medias</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/gatsby-starter-lunash/article-etc-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/japan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/c-lang</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/live-in-canada</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/futre-of-america</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/java</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/country-of-chine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/gatsby-starter-lunash/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/gatsby-starter-lunash/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
