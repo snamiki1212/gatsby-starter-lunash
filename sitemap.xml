@@ -3,8 +3,8 @@
 <url> <loc>https://example.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/article-markdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://example.com/article-medias</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/article-etc-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://example.com/article-medias</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/japan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/c-lang</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://example.com/live-in-canada</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
